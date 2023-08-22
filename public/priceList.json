@@ -133,7 +133,7 @@
       "id": 11,
       "name": "Ebook Reader",
       "price": 129.99,
-      "image_url": "https://example.com/images/ebook_reader.jpg",
+      "image_url": "https://images.pexels.com/photos/2041891/pexels-photo-2041891.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Carry your entire library with you and read comfortably with this ebook reader.",
       "features": [
         "E-ink display",
@@ -146,7 +146,7 @@
       "id": 12,
       "name": "Coffee Maker",
       "price": 49.99,
-      "image_url": "https://example.com/images/coffee_maker.jpg",
+      "image_url": "https://images.unsplash.com/photo-1608354580875-30bd4168b351?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29mZmUlMjBtYWtlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "description": "Start your day with a fresh cup of coffee brewed to perfection.",
       "features": [
         "Programmable timer",
@@ -159,7 +159,7 @@
       "id": 13,
       "name": "Hair Dryer",
       "price": 39.99,
-      "image_url": "https://example.com/images/hair_dryer.jpg",
+      "image_url": "https://images.pexels.com/photos/3993467/pexels-photo-3993467.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Achieve salon-quality results with this powerful and efficient hair dryer.",
       "features": [
         "Ionic technology",
@@ -172,7 +172,7 @@
       "id": 14,
       "name": "Vacuum Cleaner",
       "price": 199.99,
-      "image_url": "https://example.com/images/vacuum_cleaner.jpg",
+      "image_url": "https://images.pexels.com/photos/4107277/pexels-photo-4107277.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Keep your home clean and dust-free with this advanced vacuum cleaner.",
       "features": [
         "HEPA filtration",
@@ -185,7 +185,7 @@
       "id": 15,
       "name": "Blender",
       "price": 69.99,
-      "image_url": "https://example.com/images/blender.jpg",
+      "image_url": "https://images.pexels.com/photos/17890637/pexels-photo-17890637/free-photo-of-smoothie-ingredients-blending-in-blender.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Prepare smoothies, soups, and more with this high-performance blender.",
       "features": [
         "1000W motor",
@@ -198,7 +198,7 @@
       "id": 16,
       "name": "Washing Machine",
       "price": 499.99,
-      "image_url": "https://example.com/images/washing_machine.jpg",
+      "image_url": "https://images.pexels.com/photos/5591460/pexels-photo-5591460.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Efficiently clean your clothes with various wash cycles and convenient features.",
       "features": [
         "Front-loading design",
@@ -211,7 +211,7 @@
       "id": 17,
       "name": "Microwave Oven",
       "price": 129.99,
-      "image_url": "https://example.com/images/microwave.jpg",
+      "image_url": "https://images.pexels.com/photos/211761/pexels-photo-211761.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Quickly heat and cook food with this versatile microwave oven.",
       "features": [
         "900W power",
@@ -224,7 +224,7 @@
       "id": 18,
       "name": "Refrigerator",
       "price": 899.99,
-      "image_url": "https://example.com/images/refrigerator.jpg",
+      "image_url": "https://images.pexels.com/photos/4068316/pexels-photo-4068316.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Store and preserve your groceries with this spacious refrigerator.",
       "features": [
         "French door design",
@@ -237,7 +237,7 @@
       "id": 19,
       "name": "Toaster",
       "price": 29.99,
-      "image_url": "https://example.com/images/toaster.jpg",
+      "image_url": "https://images.pexels.com/photos/5825716/pexels-photo-5825716.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "description": "Easily toast bread, bagels, and more with this reliable toaster.",
       "features": [
         "Multiple browning settings",
@@ -250,7 +250,7 @@
       "id": 20,
       "name": "Rice Cooker",
       "price": 59.99,
-      "image_url": "https://example.com/images/rice_cooker.jpg",
+      "image_url": "https://images.unsplash.com/photo-1556910633-5099dc3971e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmljZSUyMGNvb2tlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "description": "Cook perfect rice every time with this user-friendly rice cooker.",
       "features": [
         "8-cup capacity",
