@@ -1,0 +1,263 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 499.99,
+      "image_url": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Stay connected with the latest features and apps on this powerful smartphone.",
+      "features": [
+        "5.5-inch AMOLED display",
+        "Dual-camera system",
+        "Fingerprint sensor",
+        "Fast charging"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 899.99,
+      "image_url": "https://images.pexels.com/photos/5412270/pexels-photo-5412270.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Boost your productivity with this high-performance laptop for work and play.",
+      "features": [
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "512GB SSD storage",
+        "Dedicated graphics"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "price": 129.99,
+      "image_url": "https://images.pexels.com/photos/3394659/pexels-photo-3394659.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Enjoy crystal-clear audio and freedom of movement with these wireless headphones.",
+      "features": [
+        "Active noise cancellation",
+        "Bluetooth connectivity",
+        "20 hours of battery life",
+        "Built-in microphone"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 199.99,
+      "image_url": "https://images.pexels.com/photos/2861929/pexels-photo-2861929.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Stay connected and track your fitness with this stylish smartwatch.",
+      "features": [
+        "Heart rate monitoring",
+        "GPS tracking",
+        "Smart notifications",
+        "Waterproof design"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Digital Camera",
+      "price": 349.99,
+      "image_url": "https://images.pexels.com/photos/403495/pexels-photo-403495.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Capture stunning photos and videos with this high-quality digital camera.",
+      "features": [
+        "20MP sensor",
+        "4K video recording",
+        "Optical image stabilization",
+        "Touchscreen display"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tablet",
+      "price": 299.99,
+      "image_url": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Experience entertainment and productivity on the go with this versatile tablet.",
+      "features": [
+        "10-inch display",
+        "Octa-core processor",
+        "128GB storage",
+        "Stylus support"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 399.99,
+      "image_url": "https://images.pexels.com/photos/3945683/pexels-photo-3945683.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Immerse yourself in the world of gaming with this powerful gaming console.",
+      "features": [
+        "4K gaming support",
+        "High frame rates",
+        "Large game library",
+        "Online multiplayer"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "price": 79.99,
+      "image_url": "https://images.pexels.com/photos/4526484/pexels-photo-4526484.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Enjoy your favorite music with rich sound quality from this portable speaker.",
+      "features": [
+        "Wireless connectivity",
+        "10-hour battery life",
+        "Built-in microphone",
+        "Water-resistant"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Fitness Tracker",
+      "price": 89.99,
+      "image_url": "https://images.pexels.com/photos/4498483/pexels-photo-4498483.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Track your activity, heart rate, and more with this convenient fitness tracker.",
+      "features": [
+        "Step counting",
+        "Sleep monitoring",
+        "Heart rate sensor",
+        "Smart notifications"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "4K Television",
+      "price": 799.99,
+      "image_url": "https://images.pexels.com/photos/4009402/pexels-photo-4009402.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "description": "Upgrade your entertainment experience with stunning 4K resolution and smart features.",
+      "features": [
+        "65-inch display",
+        "Smart TV functionality",
+        "High dynamic range (HDR)",
+        "Multiple HDMI ports"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ebook Reader",
+      "price": 129.99,
+      "image_url": "https://example.com/images/ebook_reader.jpg",
+      "description": "Carry your entire library with you and read comfortably with this ebook reader.",
+      "features": [
+        "E-ink display",
+        "Adjustable backlight",
+        "Weeks of battery life",
+        "Wide selection of ebooks"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Coffee Maker",
+      "price": 49.99,
+      "image_url": "https://example.com/images/coffee_maker.jpg",
+      "description": "Start your day with a fresh cup of coffee brewed to perfection.",
+      "features": [
+        "Programmable timer",
+        "Brew strength settings",
+        "Large water reservoir",
+        "Drip-free pouring"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hair Dryer",
+      "price": 39.99,
+      "image_url": "https://example.com/images/hair_dryer.jpg",
+      "description": "Achieve salon-quality results with this powerful and efficient hair dryer.",
+      "features": [
+        "Ionic technology",
+        "Multiple heat settings",
+        "Cool shot button",
+        "Concentrator attachment"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Vacuum Cleaner",
+      "price": 199.99,
+      "image_url": "https://example.com/images/vacuum_cleaner.jpg",
+      "description": "Keep your home clean and dust-free with this advanced vacuum cleaner.",
+      "features": [
+        "HEPA filtration",
+        "Bagless design",
+        "Multiple attachments",
+        "Adjustable suction power"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Blender",
+      "price": 69.99,
+      "image_url": "https://example.com/images/blender.jpg",
+      "description": "Prepare smoothies, soups, and more with this high-performance blender.",
+      "features": [
+        "1000W motor",
+        "Multiple speed settings",
+        "Pulse function",
+        "Durable stainless steel blades"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Washing Machine",
+      "price": 499.99,
+      "image_url": "https://example.com/images/washing_machine.jpg",
+      "description": "Efficiently clean your clothes with various wash cycles and convenient features.",
+      "features": [
+        "Front-loading design",
+        "Large capacity",
+        "Multiple wash cycles",
+        "Delay start option"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Microwave Oven",
+      "price": 129.99,
+      "image_url": "https://example.com/images/microwave.jpg",
+      "description": "Quickly heat and cook food with this versatile microwave oven.",
+      "features": [
+        "900W power",
+        "Multiple cooking presets",
+        "Defrost function",
+        "Digital control panel"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Refrigerator",
+      "price": 899.99,
+      "image_url": "https://example.com/images/refrigerator.jpg",
+      "description": "Store and preserve your groceries with this spacious refrigerator.",
+      "features": [
+        "French door design",
+        "Adjustable shelves",
+        "Ice and water dispenser",
+        "Energy-efficient"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Toaster",
+      "price": 29.99,
+      "image_url": "https://example.com/images/toaster.jpg",
+      "description": "Easily toast bread, bagels, and more with this reliable toaster.",
+      "features": [
+        "Multiple browning settings",
+        "Wide slots",
+        "Cancel function",
+        "Removable crumb tray"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Rice Cooker",
+      "price": 59.99,
+      "image_url": "https://example.com/images/rice_cooker.jpg",
+      "description": "Cook perfect rice every time with this user-friendly rice cooker.",
+      "features": [
+        "8-cup capacity",
+        "Multiple cooking modes",
+        "Keep warm function",
+        "Non-stick inner pot"
+      ]
+    }
+  ]
+  
