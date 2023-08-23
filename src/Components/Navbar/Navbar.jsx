@@ -35,6 +35,7 @@ const Navbar = () => {
       
     return (
         <nav>
+          {/* here we set onclick function for small device navbar icon change */}
             <div onClick={()=> setOpen(!open) } className='bg-purple-400 md:hidden'>
             <span>
                 {
@@ -49,6 +50,7 @@ const Navbar = () => {
             
             <ul className={`md:flex absolute md:static  bg-purple-400 pl-8 py-2 duration-500 ${open ? 'top-6' : '-top-36'}`}>
             {
+              // here we call nav component
                 routes.map(route => <Link
                 key={route.id}
                 route={route}

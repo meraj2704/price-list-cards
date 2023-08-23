@@ -14,6 +14,7 @@ const PriceCard = (props) => {
             <div className='pl-4'>
                 <h1>Features: </h1>
                 {
+                    // call feature component for show all features about product
                     priceProduct.features.map((feature, ind)=> <Features
                     key={ind}
                     feature={feature}
